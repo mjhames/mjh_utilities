@@ -1,0 +1,15 @@
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\bin\Debug\net6.0\ListFolderSize.exe
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\bin\Debug\net6.0\ListFolderSize.deps.json
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\bin\Debug\net6.0\ListFolderSize.runtimeconfig.json
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\bin\Debug\net6.0\ListFolderSize.dll
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\bin\Debug\net6.0\ListFolderSize.pdb
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.AssemblyInfo.cs
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.dll
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\refint\ListFolderSize.dll
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.pdb
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ListFolderSize.genruntimeconfig.cache
+C:\Users\Mike\source\repos\ListFolderSize\ListFolderSize\obj\Debug\net6.0\ref\ListFolderSize.dll

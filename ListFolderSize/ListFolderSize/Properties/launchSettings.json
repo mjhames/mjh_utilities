@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ListFolderSize": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\backup\\d-music\""
+    }
+  }
+}
