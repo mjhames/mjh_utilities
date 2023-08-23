@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\source\\repos\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj": {}
+    "C:\\Users\\Mike\\git_test\\mjh_utilities\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\source\\repos\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj": {
+    "C:\\Users\\Mike\\git_test\\mjh_utilities\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\git_test\\mjh_utilities\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj",
         "projectName": "ListFolderSize",
-        "projectPath": "C:\\Users\\Mike\\source\\repos\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj",
+        "projectPath": "C:\\Users\\Mike\\git_test\\mjh_utilities\\ListFolderSize\\ListFolderSize\\ListFolderSize.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\source\\repos\\ListFolderSize\\ListFolderSize\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\git_test\\mjh_utilities\\ListFolderSize\\ListFolderSize\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
