@@ -9,8 +9,7 @@ var showAllFolders = false;
 if (args.Any(a => a.ToLower().Replace("-", "").Replace("/", "") == "a"))
     showAllFolders = true;
 
-
-ListFolderSize.Functions.ListListDirectoriesWithSizeAndCountInfo(new DirectoryInfo(args[0]), showAllFolders);
+ListFolderSize.Functions.ListDirectoriesWithSizeAndCountInfo(new DirectoryInfo(args[0]), showAllFolders, Console.Out);
 
 
 

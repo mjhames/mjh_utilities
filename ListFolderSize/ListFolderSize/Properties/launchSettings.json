@@ -2,7 +2,7 @@
   "profiles": {
     "ListFolderSize": {
       "commandName": "Project",
-      "commandLineArgs": "\"H:\\backup\\d-music\""
+      "commandLineArgs": "\"H:\\backup\\d-music\\Loops\""
     }
   }
 }
